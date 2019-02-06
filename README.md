@@ -1,9 +1,6 @@
-# Product Name
-> Short blurb about what your product does.
+# Pima with knn
+> using knn to classify 153 testing samples based on 615 training samples. Also show some interesting plots of data.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 One to two paragraph statement about your product and what it does.
 
