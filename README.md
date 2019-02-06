@@ -2,23 +2,9 @@
 > using knn to classify 153 testing samples based on 615 training samples. Also show some interesting plots of data.
 
 
-One to two paragraph statement about your product and what it does.
+The source file can be downloaded at https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
-![](header.png)
 
-## Installation
-
-OS X & Linux:
-
-```sh
-npm install my-crazy-module --save
-```
-
-Windows:
-
-```sh
-edit autoexec.bat
-```
 
 ## Usage example
 
